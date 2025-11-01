@@ -15,7 +15,7 @@
 🎓 **BTech in Information Technology** | 💡 Passionate about **AI-powered systems**, **RAG pipelines**, and **end-to-end deployment**.  
 I love designing solutions that blend **machine intelligence** with **engineering precision** — turning research papers into real products.  
 
-🔭 **Currently:** Building domain-specific **RAG systems** and **Agentic AI frameworks** at *EdgeQomputing LLP*  
+🔭 **Currently:** Building domain-specific **RAG systems** and **Agentic AI frameworks** using lanchain, langraph and N8N  
 🧠 **Focus Areas:** Generative AI • LangChain • LLMOps • Self-hosted agents • Retrieval systems  
 ☁️ **DevOps:** Kubernetes • Prometheus • CI/CD for ML pipelines  
 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/nit-patel-ba61441a3/) | [Email](mailto:Nehnit23@gmail.com)
