@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nit-patel-ba61441a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-Nit2312-black?style=for-the-badge&logo=github)](https://github.com/Nit2312)
-[![Email](https://img.shields.io/badge/Email-Contact_me-red?style=for-the-badge&logo=gmail)](mailto:Nehnit23@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:Nehnit23@gmail.com)
 
 </div>
 
