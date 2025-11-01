@@ -37,7 +37,7 @@ I love designing solutions that blend **machine intelligence** with **engineerin
 
 ## 🧩 Key Projects
 
-### ⚙️ [FLIPKART Product Recommender (LLMOps Series)](https://github.com/Nit2312/FLIPKART-PRODUCT-RECOMMENDER-SYSTEM)
+### ⚙️ [FLIPKART Product Recommender (LLMOps Series)](https://github.com/Nit2312/flipkart_product_recommender)
 - RAG-powered recommendation engine for e-commerce using **LangChain**, **Groq LLaMA 3**, and **FAISS**.  
 - Deployed with monitoring (Prometheus) and container orchestration (Kubernetes).
 
