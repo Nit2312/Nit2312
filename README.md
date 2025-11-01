@@ -83,14 +83,6 @@ I love designing solutions that blend **machine intelligence** with **engineerin
 
 ---
 
-## ⚙️ Tech Ecosystem
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,langchain,huggingface,react,nodejs,postgresql,docker,kubernetes,aws,gcp,git&perline=6" />
-</p>
-
----
-
 ## 🤝 Let’s Connect!
 
 I’m always open to **collaborations, AI innovation, or freelance projects**.  
