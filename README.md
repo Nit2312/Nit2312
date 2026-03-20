@@ -8,7 +8,7 @@ Currently finishing BTech in Information Technology at BVM Engineering (2026, CG
 
 ## What I Actually Build
 
-Most AI engineers bolt an LLM onto an existing system and call it done. I design the layer between the business logic and the model — the part that determines whether the system is reliable in production or just impressive in demos.
+Most AI engineers built an LLM onto an existing system and call it done. I design the layer between the business logic and the model — the part that determines whether the system is reliable in production or just impressive in demos.
 
 At AppMixo I architected an order risk system for a production POS backend where hallucination is not acceptable — financial decisions were at stake. The solution: a deterministic facts engine that pre-computes every decision flag before the LLM is invoked. The model explains decisions. It never makes them. That system is live and handling real orders.
 
